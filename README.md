@@ -12,5 +12,6 @@ Please view the **function** below:
 }
 console.log(greet(Reader))
 ```
+We make sure to plan our days and work with Google Calendar. This allows the class to stay on track with our work. 
 
 *See you tomorrow!* 
